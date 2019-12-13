@@ -52,7 +52,7 @@ the local repository
   4) has README.md as a tracked file
   5) has at least one commit
   6) has been pushed up to the remote repository
-
+8
 
 0 passing (42ms)
 6 failing
